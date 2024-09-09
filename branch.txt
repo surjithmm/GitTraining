@@ -1,0 +1,11 @@
+1* git branch development [for branch creation]
+2* git checkout development [for branch checkout]
+2a* git checkout -b development [for checkout and branch creation]
+3* git push 
+4* git push --set-upstream origin dev (branch to git hub)
+5* git push origin --delete test
+6* git checkout main (switch to main)
+7* git merge dev
+
+---
+
