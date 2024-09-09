@@ -1,1 +1,19 @@
 Hello world
+
+*mkdir Git_stud
+*cd Git_stud
+*touch file.txt
+*nano file.txt
+*"Hello world"
+*C^z
+*y
+*ls
+*git init
+*git status
+*git add file.txt
+*git commit -m "committed"
+*$ git remote add origin https://github.com/surjithmm/Git_stud.git
+*git branch -M main
+*git push -u origin main
+*git log
+*git push
